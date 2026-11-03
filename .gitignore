@@ -1,0 +1,7 @@
+# build output
+pc_stock
+pc_stock.exe
+*.o
+
+# runtime data (created by the program)
+stock.txt
